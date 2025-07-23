@@ -1,0 +1,9 @@
+// raddbg 0.9.20 project file
+
+recent_file: path: "src/main.rs"
+target:
+{
+  executable: "target/debug/macrogame.exe"
+  working_directory: "target/debug"
+  enabled: 1
+}
